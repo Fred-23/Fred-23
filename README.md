@@ -1,4 +1,8 @@
 ### Hi there 👋
+### Hi there 👋
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Fred-23&show_icons=true&theme=radical&include_all_commits=true)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fred-23&layout=compact) 
 
 <!--
 **Fred-23/Fred-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
