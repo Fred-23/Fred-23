@@ -1,5 +1,4 @@
-### Hi there 👋
-Welcome to my GitHub Oage
+### Hi there 👋   Welcome to my GitHub Page
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Fred-23&show_icons=true&theme=radical&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fred-23&layout=compact) 
