@@ -3,6 +3,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fred-23&layout=compact) 
 
+[![Fred's github stats](https://github-readme-stats.vercel.app/api?username=Fred-23)](https://github.com/Fred-23/github-readme-stats)
+
 - 🔭 I’m currently working on an horror game in UE5 and several electronics projects
 - 🌱 I’m currently learning Javascript/Java and 3D Modeling
 - 🤔 I’m looking for help with Javascript Framework
