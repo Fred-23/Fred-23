@@ -1,7 +1,7 @@
 ### Hi there 👋   Welcome to my GitHub Page
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Fred-23&show_icons=true&theme=radical&include_all_commits=true)
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fred-23&layout=compact) 
 
 - 🔭 I’m currently working on an horror game in UE5 and several electronics projects
 - 🌱 I’m currently learning Javascript/Java and 3D Modeling
