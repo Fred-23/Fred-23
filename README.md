@@ -1,5 +1,5 @@
 ### Hi there 👋   Welcome to my GitHub Page
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Fred-23&show_icons=true&theme=dark&include_all_commits=true)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Fred-23&show_icons=true&theme=black&include_all_commits=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fred-23&layout=compact&theme=dark&hide_border=true)
 
