@@ -9,6 +9,9 @@
 - 🤔 I’m looking for help with Javascript Framework
 - 💬 Ask me about Electronics and Computer Sciences
 - 📫 How to reach me: alphonse.frederic23@icloud.com
+- My Personals Websites  :
+	- https://gamejolt.com/@Fallcry23/games
+	- https://www.thingiverse.com/fred-23/designs
 
 <!--
 **Fred-23/Fred-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
