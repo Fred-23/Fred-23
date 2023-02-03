@@ -4,9 +4,9 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fred-23&layout=compact&theme=red&hide_border=true)
 
 
-- 🔭 I’m currently working on an horror game in UE5 and several electronics projects
-- 🌱 I’m currently learning Javascript/Java and 3D Modeling
-- 🤔 I’m looking for help with Javascript Framework
+- 🔭 I’m currently working on an differents game in UE5/Unity and several electronics projects
+- 🌱 I’m currently learning Game Dev and 3D Modeling
+- 🤔 I’m looking for help with Android Studio
 - 💬 Ask me about Electronics and Computer Sciences
 - 📫 How to reach me: alphonse.frederic23@icloud.com
 - My Personals Websites  :
