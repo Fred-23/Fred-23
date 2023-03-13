@@ -15,12 +15,12 @@
   - Check out my portfolio on Shutterstock! https://www.shutterstock.com/g/Fred.A?rid=344622307&utm_medium=nativeapp&utm_source=ctrbreferral-link
 
 
-![GitHub Sponsor](https://img.shields.io/github/sponsors/<Fred-23>?label=Sponsor&logo=GitHub)
+
 <!--
 **Fred-23/Fred-23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+https://img.shields.io/github/sponsors/<Fred-23>?label=Sponsor&logo=GitHub
 
 - 👯 I’m looking to collaborate on ... 
 
