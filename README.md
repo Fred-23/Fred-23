@@ -1,7 +1,7 @@
 ### Hi there 👋   Welcome to my GitHub Page
 ![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Fred-23&show_icons=true&theme=blue&include_all_commits=true)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fred-23&layout=compact&theme=red&hide_border=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Fred-23&theme=transparent&langs_count=10&hide=kvlang,shell,&hide_progress=true) 
 
 
 - 🔭 I’m currently working on an differents game in UE5/Unity and several electronics projects
@@ -27,3 +27,4 @@ https://img.shields.io/github/sponsors/<Fred-23>?label=Sponsor&logo=GitHub
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<img  align="right" src="https://komarev.com/ghpvc/?username=Fred-23&label=Profile%20views&color=0e75b6&style=flat"  />
